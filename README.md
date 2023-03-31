@@ -30,6 +30,7 @@
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/thiago-credico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://thiagocredico.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=thiagocredico&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
