@@ -4,7 +4,7 @@
 
 <h4 align="center">Graduado em Engenharia Mecânica com ênfase em Mecatrônica, somando mais de 15 anos de experiência, permeando entre indústrias de autopeças, montadoras, aviação e alimentícia. Em transição de carreira através da TRYBE, adiquirindo conhecimentos de Desenvolvimento Web, Front-end, Back-end, Ciência da Computação, Engenharia de Software, metodologias ágeis e habilidades sócio-comportamentais</h4>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=20F700&center=true&vCenter=true&width=435&lines=Software+Development+em+desenvolvimento!;Bem+vindo!+Fique+a+vontade+para+me+contatar!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=20F700&center=true&vCenter=true&width=435&lines=Software+Development!;Bem+vindo!;Fique+a+vontade+para+me+contatar!;Entra+aí+no+meu+portfólio!)](https://git.io/typing-svg)
 
 ##
 
