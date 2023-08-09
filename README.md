@@ -35,6 +35,7 @@
   <a href="https://www.linkedin.com/in/thiago-credico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://thiagocredico.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
    <a href="mailto:thiago.credico+github@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
+ <img src='https://vbr.wocr.tk/badge?page_id=thiagocredico&style=for-the-badge&logo=Github&color=16a085'>
 </div>
 
 
