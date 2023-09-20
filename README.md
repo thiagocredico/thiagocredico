@@ -6,6 +6,7 @@
 
 <h4 align="center">thiago.credico+github@gmail.com</h4>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=20F700&center=true&vCenter=true&width=435&lines=Software+Development!;Bem+vindo!;Fique+a+vontade+para+me+contatar!;Entra+aí+no+meu+portfólio!)](https://git.io/typing-svg)
 
 ##
