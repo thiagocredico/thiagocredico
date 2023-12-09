@@ -1,6 +1,7 @@
 <h1 align="center">Ei! Eu sou o Thiago Credico 👋</h1>
 
 <h3 align="center">💻 Desenvolvedor Web Full-Stack</h3>
+<h3 align="center">📱 Desenvolvedor Mobile Android</h3>
 
 <h4 align="center">Graduado em Engenharia Mecânica com ênfase em Mecatrônica, somando mais de 15 anos de experiência, permeando entre indústrias de autopeças, montadoras, aviação e alimentícia. Em transição de carreira através da TRYBE, adiquirindo conhecimentos de Desenvolvimento Web, Front-end, Back-end, Ciência da Computação, Engenharia de Software, metodologias ágeis e habilidades sócio-comportamentais</h4>
 
