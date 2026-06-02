@@ -1,13 +1,13 @@
 <h1 align="center">Ei! Eu sou o Thiago Credico 👋</h1>
 
-<h3 align="center">💻 Desenvolvedor Web Full-Stack</h3>
-<h3 align="center">📱 Desenvolvedor Mobile Android</h3>
-
 <h4 align="center">Frontend Developer & UX Designer @ CAIXA
 
-Especialista em desenvolvimento de aplicações web utilizando Angular, TypeScript e Design Systems, com experiência em UX, acessibilidade e desenvolvimento Full Stack.
+Angular • TypeScript • UX • Design Systems
 
-Apaixonado por produtos digitais, experiência do usuário e inovação.</h4>
+Desenvolvedor com experiência em aplicações web corporativas,
+arquitetura frontend e experiência do usuário.
+Atuação em projetos digitais de grande escala, com foco em
+Angular, TypeScript, acessibilidade e design centrado no usuário..</h4>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=20F700&center=true&vCenter=true&width=435&lines=Software+Development!;Bem+vindo!;Fique+a+vontade+para+me+contatar!;Entra+aí+no+meu+portfólio!)](https://git.io/typing-svg)
 
